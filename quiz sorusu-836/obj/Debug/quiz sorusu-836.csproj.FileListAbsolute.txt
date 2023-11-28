@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\bin\Debug\quiz sorusu-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\bin\Debug\quiz sorusu-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\bin\Debug\quiz sorusu-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz_sorusu_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz_sorusu_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\quiz sorusu-836\quiz sorusu-836\obj\Debug\quiz sorusu-836.pdb
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\bin\Debug\quiz sorusu-836.exe.config
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\bin\Debug\quiz sorusu-836.exe
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\bin\Debug\quiz sorusu-836.pdb
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz_sorusu_836.Form1.resources
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz_sorusu_836.Properties.Resources.resources
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.exe
+C:\Users\User\Desktop\Basit-oyuna-kayit-islemi-836-main\quiz sorusu-836\obj\Debug\quiz sorusu-836.pdb
